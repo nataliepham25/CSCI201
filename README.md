@@ -1,2 +1,2 @@
 # CSCI201
-Java
+Assignments, Labs, Homework using Java to build webpages, projects, importing files, etc.
